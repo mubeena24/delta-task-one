@@ -58,11 +58,8 @@
     </div>
 
 
-    <br>
-    <!--
-    <div id="countdown">
-        <p class="time"> Timer: 5:00 </p>
-    </div>-->
+    <br><br>
+    
     <hr class="line3">
     <div class="score" id="score"> your score :0</div>
     <div class="pop-up">
