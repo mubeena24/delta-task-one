@@ -58,8 +58,8 @@
     </div>
 
 
-    <br><br>
-    
+    <br>
+
     <hr class="line3">
     <div class="score" id="score"> your score :0</div>
     <div class="pop-up">
